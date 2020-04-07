@@ -10,6 +10,7 @@ public class Main {
 
         Bag[] bag = g.getList();
 
+
         JFrame frame = new JFrame();
         frame.setTitle("Draw String Demo");
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
